@@ -1,6 +1,7 @@
 # 1C 8 assembler
 
 Редактор байт-кода 1С:Предприятие 8 во внешних обработках
+![alt text for screen readers](/screenshot.png "Text to show on mouseover")
 
 ## Сборка
 
@@ -20,8 +21,6 @@ https://github.com/e8tools/v8unpack/releases/download/v.3.0.40/v8unpack.exe и �
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/wKR1WxLVB0k/0.jpg)](http://www.youtube.com/watch?v=wKR1WxLVB0k "Video Title")
 
-
-![alt text for screen readers](/screenshot.png "Text to show on mouseover").
 
 ### ОпКоды
 
